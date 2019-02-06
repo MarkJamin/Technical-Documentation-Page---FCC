@@ -1,0 +1,18 @@
+{
+  "name": "tech-doc-page-fcc",
+  "version": "1.0.0",
+  "description": "project 4 - freecodecamp - technical document page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freecodecamp",
+    "technical",
+    "document",
+    "page",
+    "project"
+  ],
+  "author": "mark jamin",
+  "license": "MIT"
+}
